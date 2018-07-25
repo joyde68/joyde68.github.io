@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>迷离大陆</title>
   <id>https://joyde68.github.io</id>
-  <updated>2018-07-25T06:19:21Z</updated>
+  <updated>2018-07-25T06:28:50Z</updated>
   <subtitle>迷一般的存在</subtitle>
   <link href="https://joyde68.github.io"></link>
   <author>
@@ -13,16 +13,6 @@
     <id>tag:joyde68.github.io,2016-07-11:/2015/ink-blog-tool.html</id>
     <link href="https://joyde68.github.io/2015/ink-blog-tool.html" rel="alternate"></link>
     <summary type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</summary>
-    <author>
-      <name>姜太汪</name>
-    </author>
-  </entry>
-  <entry>
-    <title>An Elegant Static Blog Generator —— InkPaper</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:joyde68.github.io,2016-07-11:/2015/ink-blog-tool-en.html</id>
-    <link href="https://joyde68.github.io/2015/ink-blog-tool-en.html" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;InkPaper is an static blog generator developed by Golang, No dependencies, Cross platform, Easy use, Fast build, Elegant theme.&lt;/p&gt;&#xA;</summary>
     <author>
       <name>姜太汪</name>
     </author>
